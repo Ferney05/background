@@ -65,7 +65,7 @@ strong {
 }
 
 .input {
-    width: 430px;
+    width: 400px;
     height: 100px;
     outline: none;
     resize: none;
@@ -85,7 +85,7 @@ strong {
 
 @media (max-width: 450px){
     .input {
-        width: 330px;
+        width: 300px;
     }
 
     .div_title {
