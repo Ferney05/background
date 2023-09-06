@@ -79,10 +79,6 @@ strong {
     transition: 1s;
 }
 
-.body {
-    /* background-image: url('img/fondo.png'); */
-}
-
 @media (max-width: 450px){
     .input {
         width: 300px;
